@@ -2,7 +2,8 @@
     angular.module('DigitalAR', [
         'ionic',
         'LocalStorageModule'
-    ]).config(arRouteConfig);
+    ]).config(arRouteConfig)
+    .run(initializeWorld);
 
     arRouteConfig.$inject = ['$stateProvider', '$urlRouterProvider', '$ionicConfigProvider'];
 
@@ -14,6 +15,12 @@
                     templateUrl: 'components/home/home.html',
                     controller: 'HomeController',
                     controllerAs: 'home'
+                })
+                .state('productScreen', {
+                    url: '/product',
+                    templateUrl: 'components/product/product.html',
+                    controller: 'ProductController',
+                    controllerAs: 'product'
                 });
 
         // if none of the above states are matched, use this as the fallback

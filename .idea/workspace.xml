@@ -28,40 +28,8 @@
       <file leaf-file-name="htmldrawable.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.111111">
-              <caret line="154" column="12" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.333333">
-              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-              <folding>
-                <element signature="e#1815#1840#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/www/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="141" column="9" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.2777778">
+              <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -77,21 +45,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5828221">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            <state vertical-scroll-proportion="-8.125">
+              <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.82887703">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/productController.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -101,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/homeController.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <caret line="5" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -110,8 +98,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.625">
-              <caret line="1" column="33" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="33" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1355,13 +1343,16 @@
         <option value="$PROJECT_DIR$/assets/www/css/index.css" />
         <option value="$PROJECT_DIR$/assets/www/index.html" />
         <option value="$PROJECT_DIR$/assets/www/js/index.js" />
-        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/home/homeController.js" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/homeController.js" />
-        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js" />
-        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/home.html" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/css/default.css" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/productController.js" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/product.html" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/product2.html" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js" />
       </list>
     </option>
   </component>
@@ -1612,6 +1603,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="world" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1_ClientRecognition_5_HtmlDrawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1670,11 +1695,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product" />
       <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/css" />
       <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/fonts" />
       <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/libs" />
       <recent name="$PROJECT_DIR$/assets/www/images" />
-      <recent name="$PROJECT_DIR$/assets/www/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/app/splash" />
@@ -1888,7 +1913,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2465181" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17966574" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1929,32 +1954,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="e#1815#1840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="112" column="35" selection-start-line="112" selection-start-column="35" selection-end-line="112" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/xml/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2286,42 +2285,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.111111">
-          <caret line="154" column="12" selection-start-line="154" selection-start-column="12" selection-end-line="154" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/css/ionicons.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/homeController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="33" />
           <folding />
         </state>
       </provider>
@@ -2334,10 +2301,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/homeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5828221">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state vertical-scroll-proportion="-8.125">
+          <caret line="99" column="67" selection-start-line="99" selection-start-column="67" selection-end-line="99" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/components/product/productController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2777778">
+          <caret line="88" column="14" selection-start-line="88" selection-start-column="14" selection-end-line="88" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82887703">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding />
         </state>
       </provider>
