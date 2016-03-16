@@ -28,17 +28,17 @@
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+              <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3764479">
+              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
               <folding>
                 <element signature="e#1815#1840#0" expanded="true" />
               </folding>
@@ -80,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -90,18 +90,16 @@
         <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-18.958334">
-              <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8172232">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding />
+              <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+              <folding>
+                <element signature="e#766#800#0" expanded="true" />
+                <element signature="e#844#878#0" expanded="true" />
+                <element signature="e#934#968#0" expanded="true" />
+                <element signature="e#1055#1089#0" expanded="true" />
+                <element signature="e#1145#1164#0" expanded="true" />
+                <element signature="e#1401#1420#0" expanded="true" />
+                <element signature="e#1462#1482#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1342,12 +1340,12 @@
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/css/default.css" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/app/splash/splashController.js" />
         <option value="$PROJECT_DIR$/assets/www/js/index.js" />
-        <option value="$PROJECT_DIR$/assets/www/index.html" />
         <option value="$PROJECT_DIR$/assets/www/css/index.css" />
         <option value="$PROJECT_DIR$/res/xml/config.xml" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js" />
-        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html" />
         <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js" />
+        <option value="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html" />
+        <option value="$PROJECT_DIR$/assets/www/index.html" />
       </list>
     </option>
   </component>
@@ -1411,6 +1409,20 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="www" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
@@ -1434,85 +1446,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_ClientRecognition_5_HtmlDrawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="world" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1_ClientRecognition_5_HtmlDrawable" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1548,6 +1482,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/www/images" />
       <recent name="$PROJECT_DIR$/assets/www/img" />
       <recent name="$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/assets" />
     </key>
@@ -1816,7 +1751,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="112" column="46" selection-start-line="112" selection-start-column="46" selection-end-line="112" selection-end-column="46" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1882,7 +1825,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1948,7 +1899,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1998,7 +1957,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2047,7 +2014,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2096,7 +2071,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2153,7 +2136,7 @@
     <entry file="file://$PROJECT_DIR$/assets/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -2174,16 +2157,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="e#1815#1840#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2195,24 +2168,34 @@
     <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-18.958334">
-          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
-          <folding />
+          <caret line="101" column="7" selection-start-line="101" selection-start-column="7" selection-end-line="101" selection-end-column="7" />
+          <folding>
+            <element signature="e#766#800#0" expanded="true" />
+            <element signature="e#844#878#0" expanded="true" />
+            <element signature="e#934#968#0" expanded="true" />
+            <element signature="e#1055#1089#0" expanded="true" />
+            <element signature="e#1145#1164#0" expanded="true" />
+            <element signature="e#1401#1420#0" expanded="true" />
+            <element signature="e#1462#1482#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/htmldrawable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="156" column="13" selection-start-line="156" selection-start-column="13" selection-end-line="156" selection-end-column="13" />
+          <caret line="161" column="0" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/www/world/1_ClientRecognition_5_HtmlDrawable/js/app.js">
+    <entry file="file://$PROJECT_DIR$/assets/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8172232">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
+        <state vertical-scroll-proportion="0.3764479">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <element signature="e#1815#1840#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
