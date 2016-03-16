@@ -152,7 +152,7 @@ var World = {
 	setTimeout(function() {
 			var e = document.getElementById('loadingMessage');
 			e.parentElement.removeChild(e);
-		}, 10000);
+		}, 1000);
 	}
 };
 

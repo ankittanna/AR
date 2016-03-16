@@ -93,63 +93,9 @@ var app = {
     // --- End Wikitude Plugin ---
     
      receivedEvent: function(id) {
-            var parentElement = document.getElementById(id);
-            var listeningElement = parentElement.querySelector('.listening');
-            var receivedElement = parentElement.querySelector('.received');
- 
-            listeningElement.setAttribute('style', 'display:none;');
-            receivedElement.setAttribute('style', 'display:block;');
- 
             console.log('Received Event: ' + id);
  
-            app.example();
-        },
- 
-        example : function () {
-          var cardIOResponseFields = [
-            "card_type",
-            "redacted_card_number",
-            "card_number",
-            "expiry_month",
-            "expiry_year",
-            "cvv",
-            "zip"
-          ];
- 
-          var onCardIOComplete = function(response) {
-            console.log("card.io scan complete");
-            for (var i = 0, len = cardIOResponseFields.length; i < len; i++) {
-              var field = cardIOResponseFields[i];
-              console.log(field + ": " + response[field]);
-            }
-          };
- 
-          var onCardIOCancel = function() {
-            console.log("card.io scan cancelled");
-          };
- 
-          var onCardIOCheck = function (canScan) {
-            console.log("card.io canScan? " + canScan);
-            var scanBtn = document.getElementById("scanBtn");
-            if (!canScan) {
-              scanBtn.innerHTML = "Manual entry";
-            }
-            scanBtn.onclick = function (e) {
-              CardIO.scan({
-                    "expiry": true,
-                    "cvv": true,
-                    "zip": true,
-                    "suppressManual": false,
-                    "suppressConfirm": false,
-                    "hideLogo": true
-                },
-                onCardIOComplete,
-                onCardIOCancel
-              );
-            }
-          };
- 
-          CardIO.canScan(onCardIOCheck);
+
         }
 };
 

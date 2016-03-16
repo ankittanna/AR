@@ -113,3 +113,33 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+#top,
+#bottom {
+    position: fixed;
+    left: 0;
+    right: 0;
+    height: 50%;
+    text-align:center;
+}
+
+#top {
+    top: 0;
+    background-color: #092D45;
+}
+
+#bottom {
+    bottom: 0;
+    background-color: #092D45;
+}
+
+.iconStyle
+{
+    width:50%;
+    margin: 0 auto;
+}
+
+.menuText
+{
+    color: #FFFFFF;
+}
